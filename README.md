@@ -12,7 +12,7 @@ Prof. André Marques
 |------|----|
 | Ben-Hur Iung de Lima Ferreira | 561564 |
 | Gustavo Melanda da Nova | 556081 |
-| Felipe Cordeiro | 566518 |
+| Felipe Cordeiro Soares do Carmo | 566518 |
 | Deivid Ruan Marques Batista | 566356 |
 
 ---
