@@ -1,0 +1,16 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Caches Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+pytest-cache-files-*/
+.ipynb_checkpoints/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
