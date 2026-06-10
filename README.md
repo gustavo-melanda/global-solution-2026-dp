@@ -24,6 +24,7 @@ brasileiros. Os municípios e suas conexões são modelados como um **grafo
 ponderado**; os dados de risco são organizados em uma **árvore binária de busca
 (BST)**; e a cobertura mínima de rotas é resolvida com **Força Bruta**
 (baseline/oráculo) e com um **algoritmo Guloso (Prim)**.
+“Esse conjunto de estruturas e algoritmos permite simular cenários reais e apoiar decisões estratégicas de mitigação de desastres e investimentos em infraestrutura.”
 
 Cenários brasileiros implementados:
 
